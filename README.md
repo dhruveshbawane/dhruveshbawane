@@ -10,6 +10,8 @@
 
 🌱 Join me on my journey as I continue to learn, grow, and make meaningful contributions to the world of technology!
 
+![dhruveshbawane's Stats](https://github-readme-stats.vercel.app/api?username=dhruveshbawane&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,r,anaconda)](https://skillicons.dev)
 
@@ -26,7 +28,6 @@
 
 - 🌟 Completed IBM Data Science Specialization on Coursera - Mastered key concepts and techniques in data science, demonstrating dedication and proficiency in the field.
 
-  ![dhruveshbawane's Stats](https://github-readme-stats.vercel.app/api?username=dhruveshbawane&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 📬 Get in Touch
 

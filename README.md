@@ -23,7 +23,7 @@
   - 🤖 Learning machine learning algorithms and techniques for predictive analytics.
   - 📈 Applying statistical methods to analyze and interpret data patterns.
   - 📚 Continuing education in advanced topics like deep learning and natural language processing.
-  - 
+    
  ## 🏆 Achievements
 
 - 🌟 Completed IBM Data Science Specialization on Coursera - Mastered key concepts and techniques in data science, demonstrating dedication and proficiency in the field.

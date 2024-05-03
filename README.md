@@ -30,7 +30,7 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin]([https://www.linkedin.com/in/dhruvesh-bawane/])
+- Connect with me on [Linkedin](https://www.linkedin.com/in/dhruvesh-bawane)
 - Connect with me on [Twitter](https://twitter.com/dhruveshbawane)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀

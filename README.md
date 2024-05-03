@@ -11,7 +11,7 @@
 🌱 Join me on my journey as I continue to learn, grow, and make meaningful contributions to the world of technology!
 
 ## Tech Stack
-![https://skillicons.dev/icons?i=py,r,anaconda]
+[![My Skills](https://skillicons.dev/icons?i=py,r,anaconda)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 

@@ -1,4 +1,4 @@
-# Hi, I'm Dhruvesh. 👋
+# Hi, I'm Dhruvesh! 👋
 
 👋 I am a passionate B.Tech Computer Science student with a passion for technology.
 

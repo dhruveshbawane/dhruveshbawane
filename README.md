@@ -1,6 +1,6 @@
 # Hi, I'm Dhruvesh! 👋
 
-👋 I am a passionate B.Tech Computer Science student with a passion for technology.
+👋 I am a passionate B.Tech Computer Science student with a passion for Technology.
 
 🔍 My journey involves exploring the fascinating world of computer science, diving deep into data science, and uncovering new ideas along the way.
 

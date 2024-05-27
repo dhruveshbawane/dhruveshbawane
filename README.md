@@ -13,11 +13,7 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,r,anaconda)](https://skillicons.dev)
 
-## My Badges and Certificates
-
-<!--START_SECTION:badges-->
-
-# Certifications
+## My Badges and Certifications
 
 <a href="https://www.credly.com/badges/af49a68a-9222-4dcd-a254-efa0de729133/public_url" title="Python for Data Science and AI">
     <img src="https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" alt="Python for Data Science and AI" width="176" height="176">

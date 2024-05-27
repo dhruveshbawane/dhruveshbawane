@@ -17,7 +17,7 @@
 
 <!--START_SECTION:badges-->
 
-[![Python for Data Science and AI]([https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png](https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png))](https://www.credly.com/badges/af49a68a-9222-4dcd-a254-efa0de729133/public_url "Python for Data Science and AI")
+[![Python for Data Science and AI](https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png))](https://www.credly.com/badges/af49a68a-9222-4dcd-a254-efa0de729133/public_url "Python for Data Science and AI")
 [![Databases and SQL for Data Science](https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png)](https://www.credly.com/badges/dd88b0b3-91c1-44f1-ae63-17fb0f9fd493/public_url "Databases and SQL for Data Science")
 [![Data Analysis with Python](https://images.credly.com/size/680x680/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png)](https://www.credly.com/badges/f5534a92-d727-458e-b8a9-c9cdeef7013d/public_url "Data Analysis with Python")
 [![Data Visualization with Python  ](https://www.credly.com/badges/0d90fc23-3afb-41c3-926a-24e2bad1b770/public_url)](https://www.credly.com/badges/0d90fc23-3afb-41c3-926a-24e2bad1b770/public_urll "Data Visualization with Python")

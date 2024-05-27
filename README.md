@@ -17,10 +17,10 @@
 
 <!--START_SECTION:badges-->
 
-[![Data Visualization with Python](https://images.credly.com/size/680x680/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png)]
-(https://www.credly.com/badges/0d90fc23-3afb-41c3-926a-24e2bad1b770/public_url "Data Visualization with Python")
-
-
+[![Python  ](https://www.credly.com/badges/0d90fc23-3afb-41c3-926a-24e2bad1b770/public_url)](https://www.credly.com/badges/0d90fc23-3afb-41c3-926a-24e2bad1b770/public_urll "Data Visualization with Python")
+[![Databases and SQL for Data Science](https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png)](https://www.credly.com/badges/dd88b0b3-91c1-44f1-ae63-17fb0f9fd493/public_url "Databases and SQL for Data Science")
+[![Data Visualization with Python  ](https://www.credly.com/badges/0d90fc23-3afb-41c3-926a-24e2bad1b770/public_url)](https://www.credly.com/badges/0d90fc23-3afb-41c3-926a-24e2bad1b770/public_url "Data Visualization with Python")
+[![Machine Learning with Python](https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](https://www.credly.com/badges/db5290da-b975-4552-a12b-f98294d6eb61/public_url"Machine Learning with Python")
 [![IBM Data Science Professional Certificate](https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/9fffd1b8-6e5a-41ca-8b64-f74f30ad308b/public_url "IBM Data Science Professional Certificate")
 
 ## 🌱 Currently Exploring

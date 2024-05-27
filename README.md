@@ -35,17 +35,9 @@
     <img src="https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png" alt="Machine Learning with Python" width="352" height="352">
 </a>
 <a href="https://www.credly.com/badges/9fffd1b8-6e5a-41ca-8b64-f74f30ad308b/public_url" title="IBM Data Science Professional Certificate">
-    <img src="https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="IBM Data Science Professional Certificate" width="352" height="352">
+    <img src="https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" alt="IBM Data Science Professional Certificate" width="600" height="600">
 </a>
 
-
-
-[![Python for Data Science and AI](https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](https://www.credly.com/badges/af49a68a-9222-4dcd-a254-efa0de729133/public_url "Python for Data Science and AI")
-[![Databases and SQL for Data Science](https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png)](https://www.credly.com/badges/dd88b0b3-91c1-44f1-ae63-17fb0f9fd493/public_url "Databases and SQL for Data Science")
-[![Data Analysis with Python](https://images.credly.com/size/680x680/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png)](https://www.credly.com/badges/f5534a92-d727-458e-b8a9-c9cdeef7013d/public_url "Data Analysis with Python")
-[![Data Visualization with Python](https://images.credly.com/size/680x680/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png)](https://www.credly.com/badges/0d90fc23-3afb-41c3-926a-24e2bad1b770/public_urll "Data Visualization with Python")
-[![Machine Learning with Python](https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](https://www.credly.com/badges/db5290da-b975-4552-a12b-f98294d6eb61/public_url "Machine Learning with Python")
-[![IBM Data Science Professional Certificate](https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/9fffd1b8-6e5a-41ca-8b64-f74f30ad308b/public_url "IBM Data Science Professional Certificate")
 
 ## 🌱 Currently Exploring
 

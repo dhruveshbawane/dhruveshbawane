@@ -13,6 +13,11 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,r,anaconda)](https://skillicons.dev)
 
+## My Badges
+
+<!--START_SECTION:badges-->
+[![Security Analyst Fundamentals Specialization](https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/9fffd1b8-6e5a-41ca-8b64-f74f30ad308b/public_url "IBM Data Science Professional Certificate")
+
 ## 🌱 Currently Exploring
 
 - 🚀 Currently exploring the realm of Data Science:

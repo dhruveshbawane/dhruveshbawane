@@ -13,10 +13,15 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,r,anaconda)](https://skillicons.dev)
 
-## My Badges
+## My Badges and Certificates
 
 <!--START_SECTION:badges-->
-[![Security Analyst Fundamentals Specialization](https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/9fffd1b8-6e5a-41ca-8b64-f74f30ad308b/public_url "IBM Data Science Professional Certificate")
+
+[![Data Visualization with Python](https://images.credly.com/size/680x680/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png)]
+(https://www.credly.com/badges/0d90fc23-3afb-41c3-926a-24e2bad1b770/public_url "Data Visualization with Python")
+
+
+[![IBM Data Science Professional Certificate](https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/9fffd1b8-6e5a-41ca-8b64-f74f30ad308b/public_url "IBM Data Science Professional Certificate")
 
 ## 🌱 Currently Exploring
 

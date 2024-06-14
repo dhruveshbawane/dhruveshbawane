@@ -16,7 +16,7 @@
 - 🌟 Completed IBM Data Science Specialization on Coursera - Mastered key concepts and techniques in data science, demonstrating dedication and proficiency in the field.
   
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,r,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,numpy,pandas,matplotlib,seaborn,scipy,sql,tableau,jupyter)](https://skillicons.dev)
 
 ## 📬 Let's Connect
 

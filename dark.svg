@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+<title id="title">Dhruvesh Bawane premium GitHub profile hero banner - dark</title>
+<desc id="desc">Pure SVG animated cyber engineering hero banner for Dhruvesh Bawane.</desc>
+<defs>
+  <linearGradient id="accentGradient" x1="0" y1="0" x2="1180" y2="610" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#7C3AED"/><stop offset=".52" stop-color="#22D3EE"/><stop offset="1" stop-color="#10B981"/><animate attributeName="x1" values="0;220;0" dur="8s" repeatCount="indefinite"/><animate attributeName="x2" values="1180;950;1180" dur="8s" repeatCount="indefinite"/></linearGradient>
+  <linearGradient id="asciiGradient" x1="58" y1="80" x2="418" y2="435" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#22D3EE"/><stop offset=".48" stop-color="#7C3AED"/><stop offset="1" stop-color="#10B981"/><animate attributeName="x1" values="58;188;58" dur="6s" repeatCount="indefinite"/><animate attributeName="y2" values="435;275;435" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <linearGradient id="pillGradient" x1="0" y1="0" x2="180" y2="24" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#7C3AED"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+  <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(310 100) rotate(90) scale(355)"><stop stop-color="#22D3EE" stop-opacity=".68"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 515) rotate(90) scale(380)"><stop stop-color="#7C3AED" stop-opacity=".68"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowEmerald" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 160) rotate(90) scale(305)"><stop stop-color="#10B981" stop-opacity=".24"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></radialGradient>
+  <filter id="textGlow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#22D3EE" flood-opacity=".42"/><feDropShadow dx="0" dy="0" stdDeviation="15" flood-color="#7C3AED" flood-opacity=".22"/></filter>
+  <filter id="cardShadow" x="-12%" y="-12%" width="124%" height="124%"><feDropShadow dx="0" dy="18" stdDeviation="26" flood-color="#000000" flood-opacity=".20"/></filter>
+  <filter id="noise" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".78" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 .04"/></feComponentTransfer></filter>
+  <clipPath id="outerClip"><rect x="16" y="16" width="1148" height="578" rx="32"/></clipPath>
+  <mask id="fadeMask"><rect x="0" y="0" width="1180" height="610" fill="white"/><rect x="0" y="560" width="1180" height="50" fill="url(#fadeGradient)"/></mask>
+  <linearGradient id="fadeGradient" x1="0" y1="560" x2="0" y2="610" gradientUnits="userSpaceOnUse"><stop stop-color="white"/><stop offset="1" stop-color="black"/></linearGradient>
+</defs>
+<g clip-path="url(#outerClip)">
+  <rect x="16" y="16" width="1148" height="578" rx="32" fill="#030712"/>
+  <rect x="16" y="16" width="1148" height="578" rx="32" fill="url(#glowBlue)"><animate attributeName="opacity" values=".54;.82;.54" dur="7s" repeatCount="indefinite"/></rect>
+  <rect x="16" y="16" width="1148" height="578" rx="32" fill="url(#glowPurple)"><animate attributeName="opacity" values=".36;.63;.36" dur="8.2s" repeatCount="indefinite"/></rect>
+  <rect x="16" y="16" width="1148" height="578" rx="32" fill="url(#glowEmerald)"><animate attributeName="opacity" values=".20;.40;.20" dur="9.2s" repeatCount="indefinite"/></rect>
+  <rect x="16" y="16" width="1148" height="578" rx="32" filter="url(#noise)"/>
+  <circle cx="88" cy="86" r="2" fill="#22D3EE" opacity=".22"><animate attributeName="cy" values="86;130;86" dur="7.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.38;.08" dur="3.75s" repeatCount="indefinite"/></circle><circle cx="268" cy="42" r="1.4" fill="#22D3EE" opacity=".22"><animate attributeName="cy" values="42;102;42" dur="8.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.38;.08" dur="4.4s" repeatCount="indefinite"/></circle><circle cx="442" cy="548" r="1.8" fill="#22D3EE" opacity=".22"><animate attributeName="cy" values="548;500;548" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.38;.08" dur="3.5s" repeatCount="indefinite"/></circle><circle cx="1046" cy="92" r="2.2" fill="#22D3EE" opacity=".22"><animate attributeName="cy" values="92;147;92" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.38;.08" dur="4.0s" repeatCount="indefinite"/></circle><circle cx="960" cy="530" r="1.6" fill="#22D3EE" opacity=".22"><animate attributeName="cy" values="530;475;530" dur="7.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.38;.08" dur="3.6s" repeatCount="indefinite"/></circle><circle cx="742" cy="82" r="1.2" fill="#22D3EE" opacity=".22"><animate attributeName="cy" values="82;132;82" dur="9.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.38;.08" dur="4.7s" repeatCount="indefinite"/></circle><circle cx="1120" cy="390" r="1.7" fill="#22D3EE" opacity=".22"><animate attributeName="cy" values="390;325;390" dur="8.1s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.38;.08" dur="4.05s" repeatCount="indefinite"/></circle><circle cx="612" cy="570" r="1.2" fill="#22D3EE" opacity=".22"><animate attributeName="cy" values="570;530;570" dur="6.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".08;.38;.08" dur="3.4s" repeatCount="indefinite"/></circle>
+  <rect x="18" y="18" width="1144" height="574" rx="31" fill="none" stroke="url(#accentGradient)" stroke-width="1.2" stroke-opacity=".24"><animate attributeName="stroke-opacity" values=".12;.48;.12" dur="4.8s" repeatCount="indefinite"/></rect>
+  <path d="M14 105 C220 52 420 63 588 104 C790 153 984 124 1176 54 L1176 18 L14 18 Z" fill="#fff" opacity=".06"/>
+  <path d="M-120 0 L260 0 L-40 610 L-420 610 Z" fill="#fff" opacity=".055"><animateTransform attributeName="transform" type="translate" values="-200 0;1380 0" dur="10s" repeatCount="indefinite"/></path>
+
+  <g transform="translate(46 56)" filter="url(#cardShadow)">
+    <rect width="410" height="498" rx="26" fill="#0F172A" fill-opacity=".78" stroke="url(#accentGradient)" stroke-opacity=".34"/>
+    <rect x="18" y="18" width="374" height="462" rx="18" fill="#030712" fill-opacity=".24" stroke="#1E293B" stroke-opacity=".28"/>
+    <circle cx="40" cy="42" r="5.2" fill="#EF4444" opacity=".9"/><circle cx="60" cy="42" r="5.2" fill="#F59E0B" opacity=".9"/><circle cx="80" cy="42" r="5.2" fill="#22C55E" opacity=".9"/>
+    <text x="100" y="47" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#94A3B8">ascii://cyber-engineering</text>
+    <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="5.4s" repeatCount="indefinite"/><text x="230" y="128" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0">      ▄████████▄      
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="0.00s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="0.00s" fill="freeze"/>
+</text><text x="230" y="153" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0">   ▄██▀        ▀██▄   
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="0.13s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="0.13s" fill="freeze"/>
+</text><text x="230" y="178" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0"> ▄██▀  ▄██████▄  ▀██▄ 
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="0.26s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="0.26s" fill="freeze"/>
+</text><text x="230" y="203" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0"> ██   ██▀    ▀██   ██ 
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="0.39s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="0.39s" fill="freeze"/>
+</text><text x="230" y="228" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0">██▌  ██  ▄██▄  ██  ▐██
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="0.52s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="0.52s" fill="freeze"/>
+</text><text x="230" y="253" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0">██   ██  ████  ██   ██
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="0.65s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="0.65s" fill="freeze"/>
+</text><text x="230" y="278" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0">██▌  ██▄  ▀▀  ▄██  ▐██
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="0.78s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="0.78s" fill="freeze"/>
+</text><text x="230" y="303" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0"> ██   ▀██▄▄▄▄██▀   ██ 
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="0.91s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="0.91s" fill="freeze"/>
+</text><text x="230" y="328" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0"> ▀██▄    ▀██▀    ▄██▀ 
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="1.04s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="1.04s" fill="freeze"/>
+</text><text x="230" y="353" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0">   ▀██▄  ▄██▄  ▄██▀   
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="1.17s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="1.17s" fill="freeze"/>
+</text><text x="230" y="378" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0">     ▀████  ████▀     
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="1.30s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="1.30s" fill="freeze"/>
+</text><text x="230" y="403" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0">       CYBER OPS      
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="1.43s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="1.43s" fill="freeze"/>
+</text><text x="230" y="428" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="800" letter-spacing="1" fill="url(#asciiGradient)" filter="url(#textGlow)" opacity="0">     DH R U V E S H   
+  <animate attributeName="opacity" values="0;1" dur=".38s" begin="1.56s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur=".48s" begin="1.56s" fill="freeze"/>
+</text>
+      <rect x="160" y="462" width="120" height="2" fill="url(#accentGradient)" opacity=".76"><animate attributeName="width" values="0;120;120" dur="2.4s" begin=".6s" fill="freeze"/></rect>
+      <rect x="286" y="447" width="10" height="24" fill="#22D3EE" opacity="1"><animate attributeName="opacity" values="1;0;1" dur=".78s" repeatCount="indefinite"/></rect>
+    </g>
+    <rect x="18" y="70" width="374" height="2" fill="url(#accentGradient)" opacity=".52"><animate attributeName="y" values="70;466;70" dur="6.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".05;.52;.05" dur="6.2s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <g transform="translate(498 56)" filter="url(#cardShadow)">
+    <rect width="636" height="498" rx="26" fill="#0F172A" fill-opacity=".80" stroke="url(#accentGradient)" stroke-opacity=".32"/>
+    <rect x="18" y="18" width="600" height="462" rx="18" fill="#030712" fill-opacity=".23" stroke="#1E293B" stroke-opacity=".28"/>
+    <circle cx="44" cy="43" r="6" fill="#EF4444" opacity=".9"/><circle cx="66" cy="43" r="6" fill="#F59E0B" opacity=".9"/><circle cx="88" cy="43" r="6" fill="#22C55E" opacity=".9"/>
+    <text x="120" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#94A3B8">dhruvesh@secops:~$ profile --hero</text>
+    <text x="42" y="108" font-family="Inter, ui-sans-serif, system-ui" font-size="18" font-weight="700" fill="#94A3B8" opacity="0">Hi 👋<animate attributeName="opacity" values="0;1" dur=".55s" begin=".35s" fill="freeze"/></text>
+    <text x="42" y="160" font-family="Inter, ui-sans-serif, system-ui" font-size="44" font-weight="900" letter-spacing="-1.1" fill="#F8FAFC" opacity="0">I'm Dhruvesh Bawane<animate attributeName="opacity" values="0;1" dur=".65s" begin=".65s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur=".65s" begin=".65s" fill="freeze"/></text>
+    <g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.86;1" dur="3.2s" begin="0.0s" repeatCount="indefinite"/>
+  <clipPath id="typeClip0"><rect x="0" y="0" width="0" height="44"><animate attributeName="width" values="0;352;352;0" keyTimes="0;.58;.86;1" dur="3.2s" begin="0.0s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="540" y="218" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial" font-size="29" font-weight="800" letter-spacing="-.4" fill="url(#accentGradient)" clip-path="url(#typeClip0)">Cybersecurity Engineer</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.86;1" dur="3.2s" begin="3.2s" repeatCount="indefinite"/>
+  <clipPath id="typeClip1"><rect x="0" y="0" width="0" height="44"><animate attributeName="width" values="0;432;432;0" keyTimes="0;.58;.86;1" dur="3.2s" begin="3.2s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="540" y="218" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial" font-size="29" font-weight="800" letter-spacing="-.4" fill="url(#accentGradient)" clip-path="url(#typeClip1)">Security Operations Analyst</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.86;1" dur="3.2s" begin="6.4s" repeatCount="indefinite"/>
+  <clipPath id="typeClip2"><rect x="0" y="0" width="0" height="44"><animate attributeName="width" values="0;416;416;0" keyTimes="0;.58;.86;1" dur="3.2s" begin="6.4s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="540" y="218" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial" font-size="29" font-weight="800" letter-spacing="-.4" fill="url(#accentGradient)" clip-path="url(#typeClip2)">Endpoint Security Engineer</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.86;1" dur="3.2s" begin="9.6s" repeatCount="indefinite"/>
+  <clipPath id="typeClip3"><rect x="0" y="0" width="0" height="44"><animate attributeName="width" values="0;400;400;0" keyTimes="0;.58;.86;1" dur="3.2s" begin="9.6s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="540" y="218" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial" font-size="29" font-weight="800" letter-spacing="-.4" fill="url(#accentGradient)" clip-path="url(#typeClip3)">Incident Response Analyst</text>
+</g><g opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.86;1" dur="3.2s" begin="12.8s" repeatCount="indefinite"/>
+  <clipPath id="typeClip4"><rect x="0" y="0" width="0" height="44"><animate attributeName="width" values="0;432;432;0" keyTimes="0;.58;.86;1" dur="3.2s" begin="12.8s" repeatCount="indefinite"/></rect></clipPath>
+  <text x="540" y="218" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial" font-size="29" font-weight="800" letter-spacing="-.4" fill="url(#accentGradient)" clip-path="url(#typeClip4)">Threat &amp; Vulnerability Mgmt</text>
+</g>
+    <rect x="540" y="226" width="11" height="31" fill="#22D3EE" opacity="1"><animate attributeName="opacity" values="1;0;1" dur=".72s" repeatCount="indefinite"/></rect>
+    <rect x="540" y="236" width="255" height="2" fill="url(#accentGradient)" opacity=".72"><animate attributeName="width" values="0;255;255" dur="1.55s" begin="1s" fill="freeze"/></rect>
+    <g opacity="0" transform="translate(14 0)">
+  <animate attributeName="opacity" values="0;1" dur=".45s" begin="1.15s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="14 0;0 0" dur=".45s" begin="1.15s" fill="freeze"/>
+  <text x="540" y="278" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="800" letter-spacing=".9" fill="#94A3B8">LOCATION</text>
+  <text x="665" y="278" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="650" fill="#F8FAFC">Savli, Vadodara, India</text>
+</g><g opacity="0" transform="translate(14 0)">
+  <animate attributeName="opacity" values="0;1" dur=".45s" begin="1.33s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="14 0;0 0" dur=".45s" begin="1.33s" fill="freeze"/>
+  <text x="540" y="309" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="800" letter-spacing=".9" fill="#94A3B8">EDUCATION</text>
+  <text x="665" y="309" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="650" fill="#F8FAFC">B.Tech CSE • Parul Institute of Technology</text>
+</g><g opacity="0" transform="translate(14 0)">
+  <animate attributeName="opacity" values="0;1" dur=".45s" begin="1.51s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="14 0;0 0" dur=".45s" begin="1.51s" fill="freeze"/>
+  <text x="540" y="340" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="800" letter-spacing=".9" fill="#94A3B8">CURRENT FOCUS</text>
+  <text x="665" y="340" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="650" fill="#F8FAFC">Cyber Engineering • SecOps • Endpoint Security</text>
+</g><g opacity="0" transform="translate(14 0)">
+  <animate attributeName="opacity" values="0;1" dur=".45s" begin="1.69s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="14 0;0 0" dur=".45s" begin="1.69s" fill="freeze"/>
+  <text x="540" y="371" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="800" letter-spacing=".9" fill="#94A3B8">PORTFOLIO</text>
+  <text x="665" y="371" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="650" fill="#F8FAFC">github.com/dhruveshbawane</text>
+</g><g opacity="0" transform="translate(14 0)">
+  <animate attributeName="opacity" values="0;1" dur=".45s" begin="1.87s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="14 0;0 0" dur=".45s" begin="1.87s" fill="freeze"/>
+  <text x="540" y="402" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="800" letter-spacing=".9" fill="#94A3B8">EMAIL</text>
+  <text x="665" y="402" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="650" fill="#F8FAFC">dhruveshbawane@gmail.com</text>
+</g>
+    <text x="540" y="424" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="900" letter-spacing=".9" fill="#94A3B8" opacity="0">SKILLS + CERTS<animate attributeName="opacity" values="0;1" dur=".5s" begin="2s" fill="freeze"/></text>
+    <g id="pill0" transform="translate(540 454)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.12s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="540 463;540 454" dur=".45s" begin="2.12s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill0.mouseover" fill="freeze"/>
+  <rect width="109.6" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="107.6" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="54.8" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">Defender XDR</text>
+</g><g id="pill1" transform="translate(658.6 454)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.17s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="658.6 463;658.6 454" dur=".45s" begin="2.17s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill1.mouseover" fill="freeze"/>
+  <rect width="109.6" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="107.6" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="54.8" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">Elastic SIEM</text>
+</g><g id="pill2" transform="translate(777.2 454)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.21s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="777.2 463;777.2 454" dur=".45s" begin="2.21s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill2.mouseover" fill="freeze"/>
+  <rect width="73.1" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="71.1" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="36.5" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">Tenable</text>
+</g><g id="pill3" transform="translate(859.3000000000001 454)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.25s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="859.3000000000001 463;859.3000000000001 454" dur=".45s" begin="2.25s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill3.mouseover" fill="freeze"/>
+  <rect width="73.1" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="71.1" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="36.5" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">Airlock</text>
+</g><g id="pill4" transform="translate(941.4000000000001 454)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.30s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="941.4000000000001 463;941.4000000000001 454" dur=".45s" begin="2.30s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill4.mouseover" fill="freeze"/>
+  <rect width="80.4" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="78.4" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="40.2" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">Netskope</text>
+</g><g id="pill5" transform="translate(540 490)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.35s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="540 499;540 490" dur=".45s" begin="2.35s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill5.mouseover" fill="freeze"/>
+  <rect width="95.0" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="93.0" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="47.5" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">ServiceNow</text>
+</g><g id="pill6" transform="translate(644.0 490)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.39s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="644.0 499;644.0 490" dur=".45s" begin="2.39s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill6.mouseover" fill="freeze"/>
+  <rect width="65.8" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="63.8" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="32.9" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">Intune</text>
+</g><g id="pill7" transform="translate(718.8 490)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.44s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="718.8 499;718.8 490" dur=".45s" begin="2.44s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill7.mouseover" fill="freeze"/>
+  <rect width="51.2" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="49.2" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="25.6" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">SCCM</text>
+</g><g id="pill8" transform="translate(779.0 490)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.48s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="779.0 499;779.0 490" dur=".45s" begin="2.48s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill8.mouseover" fill="freeze"/>
+  <rect width="138.8" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="136.8" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="69.4" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">Active Directory</text>
+</g><g id="pill9" transform="translate(926.8 490)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.52s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="926.8 499;926.8 490" dur=".45s" begin="2.52s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill9.mouseover" fill="freeze"/>
+  <rect width="43.9" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="41.9" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="21.9" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">IAM</text>
+</g><g id="pill10" transform="translate(979.6999999999999 490)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.57s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="979.6999999999999 499;979.6999999999999 490" dur=".45s" begin="2.57s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill10.mouseover" fill="freeze"/>
+  <rect width="95.0" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="93.0" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="47.5" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">PowerShell</text>
+</g><g id="pill11" transform="translate(540 526)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.62s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="540 535;540 526" dur=".45s" begin="2.62s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill11.mouseover" fill="freeze"/>
+  <rect width="65.8" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="63.8" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="32.9" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">Python</text>
+</g><g id="pill12" transform="translate(614.8 526)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.66s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="614.8 535;614.8 526" dur=".45s" begin="2.66s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill12.mouseover" fill="freeze"/>
+  <rect width="73.1" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="71.1" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="36.5" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">Varonis</text>
+</g><g id="pill13" transform="translate(696.9 526)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.71s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="696.9 535;696.9 526" dur=".45s" begin="2.71s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill13.mouseover" fill="freeze"/>
+  <rect width="73.1" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="71.1" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="36.5" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">PhishER</text>
+</g><g id="pill14" transform="translate(779.0 526)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.75s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="779.0 535;779.0 526" dur=".45s" begin="2.75s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill14.mouseover" fill="freeze"/>
+  <rect width="43.9" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="41.9" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="21.9" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">IRP</text>
+</g><g id="pill15" transform="translate(831.9 526)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.79s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="831.9 535;831.9 526" dur=".45s" begin="2.79s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill15.mouseover" fill="freeze"/>
+  <rect width="138.8" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="136.8" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="69.4" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">Windows Security</text>
+</g><g id="pill16" transform="translate(540 562)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.84s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="540 571;540 562" dur=".45s" begin="2.84s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill16.mouseover" fill="freeze"/>
+  <rect width="138.8" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="136.8" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="69.4" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">CompTIA Network+</text>
+</g><g id="pill17" transform="translate(687.8 562)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.89s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="687.8 571;687.8 562" dur=".45s" begin="2.89s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill17.mouseover" fill="freeze"/>
+  <rect width="65.8" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="63.8" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="32.9" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">SC-900</text>
+</g><g id="pill18" transform="translate(762.5999999999999 562)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.93s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="762.5999999999999 571;762.5999999999999 562" dur=".45s" begin="2.93s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill18.mouseover" fill="freeze"/>
+  <rect width="65.8" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="63.8" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="32.9" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">AZ-900</text>
+</g><g id="pill19" transform="translate(837.3999999999999 562)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="2.98s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="837.3999999999999 571;837.3999999999999 562" dur=".45s" begin="2.98s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill19.mouseover" fill="freeze"/>
+  <rect width="73.1" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="71.1" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="36.5" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">ITIL v4</text>
+</g><g id="pill20" transform="translate(919.4999999999999 562)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".35s" begin="3.02s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" values="919.4999999999999 571;919.4999999999999 562" dur=".45s" begin="3.02s" fill="freeze"/>
+  <animateTransform attributeName="transform" additive="sum" type="scale" values="1;1.05;1" dur=".38s" begin="pill20.mouseover" fill="freeze"/>
+  <rect width="102.3" height="28" rx="14" fill="url(#pillGradient)" opacity=".17" stroke="url(#accentGradient)" stroke-opacity=".48"/>
+  <rect x="1" y="1" width="100.3" height="26" rx="13" fill="#0F172A" opacity=".64"/>
+  <text x="51.1" y="18.5" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="11.5" font-weight="800" fill="#F8FAFC">CS50 Python</text>
+</g>
+    <a href="https://github.com/dhruveshbawane" target="_blank"><g transform="translate(540 556)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".4s" begin="3.35s" fill="freeze"/>
+  <circle cx="15" cy="15" r="15" fill="#0F172A" stroke="url(#accentGradient)" stroke-opacity=".55"/>
+  <text x="15" y="20" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="900" fill="#F8FAFC">GH</text>
+  <animateTransform attributeName="transform" additive="sum" type="translate" values="0 0;0 -3;0 0" dur="3.2s" begin="0.0s" repeatCount="indefinite"/>
+</g></a><a href="https://www.linkedin.com/in/dhruvesh-bawane/" target="_blank"><g transform="translate(592 556)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".4s" begin="3.35s" fill="freeze"/>
+  <circle cx="15" cy="15" r="15" fill="#0F172A" stroke="url(#accentGradient)" stroke-opacity=".55"/>
+  <text x="15" y="20" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="900" fill="#F8FAFC">in</text>
+  <animateTransform attributeName="transform" additive="sum" type="translate" values="0 0;0 -3;0 0" dur="3.2s" begin="0.2s" repeatCount="indefinite"/>
+</g></a><a href="#" target="_blank"><g transform="translate(644 556)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".4s" begin="3.35s" fill="freeze"/>
+  <circle cx="15" cy="15" r="15" fill="#0F172A" stroke="url(#accentGradient)" stroke-opacity=".55"/>
+  <text x="15" y="20" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="900" fill="#F8FAFC">X</text>
+  <animateTransform attributeName="transform" additive="sum" type="translate" values="0 0;0 -3;0 0" dur="3.2s" begin="0.4s" repeatCount="indefinite"/>
+</g></a><a href="#" target="_blank"><g transform="translate(696 556)" opacity="0">
+  <animate attributeName="opacity" values="0;1" dur=".4s" begin="3.35s" fill="freeze"/>
+  <circle cx="15" cy="15" r="15" fill="#0F172A" stroke="url(#accentGradient)" stroke-opacity=".55"/>
+  <text x="15" y="20" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="900" fill="#F8FAFC">↗</text>
+  <animateTransform attributeName="transform" additive="sum" type="translate" values="0 0;0 -3;0 0" dur="3.2s" begin="0.6s" repeatCount="indefinite"/>
+</g></a>
+  </g>
+  <rect x="16" y="16" width="1148" height="3" fill="url(#accentGradient)" opacity=".18"><animate attributeName="y" values="16;590;16" dur="7.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".02;.22;.02" dur="7.5s" repeatCount="indefinite"/></rect>
+</g>
+</svg>

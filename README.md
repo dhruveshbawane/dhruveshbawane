@@ -66,8 +66,8 @@ ServiceNow
 
 | Certification | Verify |
 |:--------------|:------:|
-| Microsoft Certified: Security, Compliance, and Identity Fundamentals | [SC-900](https://learn.microsoft.com/api/credentials/share/en-us/dhruveshbawane/2999F716E6C0301?sharingId=A08F4FE22D3D3DC1) |
-| Microsoft Certified: Azure Fundamentals | [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/DhruveshBawane25/D627B8B047EDE7AA?sharingId=4B9762F4805888A2) |
+| Microsoft Certified: Security, Compliance, and Identity Fundamentals | [SC-900](https://learn.microsoft.com/api/credentials/share/en-us/DhruveshBawane-4783/2999F716E6C0301?sharingId=A43EA0E61CB029F4) |
+| Microsoft Certified: Azure Fundamentals | [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/DhruveshBawane-4783/8F088C60CC8668CA?sharingId=A43EA0E61CB029F4) |
 | CompTIA Network+ | [N10-009](https://www.credly.com/badges/7f8a0f69-8195-4f18-ae54-82fa09bb38cd/public_url) |
 | CompTIA Tech+ | [FC0-U71](https://www.credly.com/badges/082d16ce-a8a0-45da-a8f2-98556b96a0f6/public_url) |
 | ITIL® 4 Foundation | [ITILFND V4](https://www.credly.com/org/peoplecert/badge/itil-4-foundation) |

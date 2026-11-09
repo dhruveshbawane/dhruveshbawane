@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruveshbawane@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=5B98FF)](https://www.linkedin.com/in/dhruvesh-bawane/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Cyber_Blue-0B1220?style=flat-square&labelColor=0B1220&color=5B98FF)](#whoami)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1220?style=flat-square&labelColor=0B1220&color=5B98FF)](#whoami)
 
 </div>
 
@@ -17,7 +17,6 @@
   <a href="#security-toolkit">security toolkit</a> ·
   <a href="#selected-projects">projects</a> ·
   <a href="#certifications">certifications</a> ·
-  <a href="#codex-terminal">Codex status</a>
 </p>
 
 ---

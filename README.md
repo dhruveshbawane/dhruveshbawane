@@ -30,10 +30,6 @@ Cybersecurity professional focused on defensive security, threat detection and s
 name: Dhruvesh Bawane
 role: IT Security Analyst
 location: India
-portfolio:
-  default_theme: Cyber Blue
-  available_themes: [Cyber Blue, Editorial Red, Violet Cinema, Noir]
-  languages: [English, German, French, Russian]
 ```
 
 <details>
@@ -104,18 +100,6 @@ Coursework includes Mathematics, Computer Science, Cybersecurity and Artificial 
 | Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) | Microsoft | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/dhruvesh-bawane/2999F716E6C0301?sharingId=A43EA0E61CB029F4) |
 | ITIL 4 Foundation Certificate in IT Service Management | PeopleCert | [View certificate](https://drive.google.com/file/d/140ZnLeEmTtGnOT9jQHVGJd0_EBdStYfh/view?usp=drive_link) |
 | CS50's Introduction to Programming with Python (CS50P) | CS50, Harvard University | [View certificate](https://cs50.harvard.edu/certificates/0f299962-ed39-4806-b1e3-76fad77dbd61) |
-
-## codex-terminal
-
-```console
-dhruvesh@portfolio:~$ codex status
-Project: Cybersecurity Portfolio
-Mode: Static GitHub profile
-Live Codex session: Not connected
-Usage statistics: Not available in this README
-```
-
-> This terminal panel is a static design element. It does not report live Codex usage or session data.
 
 ---
 
